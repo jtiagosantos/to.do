@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jtiagosantos/to.do?color=%green">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/jtiagosantos/to.do?color=blue">
-  <a href="https://github.com/jtiagosantos/url-shortener/commits/master">
+  <a href="https://github.com/jtiagosantos/to.do/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jtiagosantos/to.do?color=purple">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=orange">
