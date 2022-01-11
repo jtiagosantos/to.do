@@ -27,7 +27,7 @@
 <br>
 
 <h1 align="center">
-    <img alt="eShop" src=".github/cover.png" />
+    <img alt="to.do" src=".github/cover.png" />
 </h1>
 
 <hr />
